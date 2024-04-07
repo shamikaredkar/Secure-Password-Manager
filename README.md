@@ -1,4 +1,4 @@
-# Secure Password Manager
+# Secure Password Manager 🗄️
 
 A simple and secure password manager built with Python, utilizing the `cryptography` library to securely encrypt and decrypt passwords. This tool allows users to safely store and manage their passwords locally.
 
